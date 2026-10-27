@@ -15,4 +15,4 @@ I'm a freshman majoring in Cybersecurity and Information Systems and Technology.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Bentheben02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-hesson-50b206432/)
 
-"Yesterday is not ours to recover, but tomorrow is ours to win or lose. -Lyndon B. Johnson"
+"Yesterday is not ours to recover, but tomorrow is ours to win or lose." -Lyndon B. Johnson
